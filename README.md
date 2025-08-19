@@ -1,6 +1,8 @@
 # LinkHub
 A simple and clean Linktree clone - 'LinkHub' web page that consolidates all your important links into a single mobile-friendly landing page. This project allows you to create a personalized profile with multiple buttons linking to your social media, projects, and other online presences.
 
+![Image](https://github.com/user-attachments/assets/864b1bc3-c73a-47eb-90ee-90e44c3c136f)
+
 ## Features
   - Profile section with picture, name, and tagline
   - Multiple clickable buttons that direct to external URLs
